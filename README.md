@@ -23,11 +23,11 @@ To run any of these projects locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/javascript-30-days-challenge.git
+   git clone (https://github.com/Sourabhkumar077/JavaScript30.git)
    ```
 2. Navigate to the project directory:
    ```bash
-   cd javascript-30-days-challenge
+   cd JavaScript30
    ```
 3. Open the project folder in your preferred code editor.
 
