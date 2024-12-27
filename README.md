@@ -17,6 +17,7 @@ This challenge is designed to improve my JavaScript skills by building a variety
 
 ## Projects
 1. Project 1: JS drum kit
+2. Project 2: CSS + JS Clock
 
 ## Installation
 To run any of these projects locally, follow these steps:
